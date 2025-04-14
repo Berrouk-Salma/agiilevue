@@ -77,6 +77,4 @@ This application marks the beginning of an efficient Agile experience on the web
 
 ---
 
-🧑‍💻 **Developed by:** Berrouk Salma  
-🎓 **Academic Year:** 2024–2025  
-📘 **Supervisor:** Ouchad Houssni
+
